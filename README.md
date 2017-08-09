@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>SUUConvo.com</title>
-        <meta http-equiv="refresh" content="0;url=http://go.suu.edu/2w2JEvJ" />
+<!--         <meta http-equiv="refresh" content="0;url=http://go.suu.edu/2w2JEvJ" /> -->
     </head>
     <body>
         <h1>SUUConvo.com Has Moved</h1>
